@@ -1,1 +1,1 @@
-# LAZADA
+# lazada
